@@ -1,2 +1,6 @@
 # fetch_api
-Its a javascript program to fetch data through demo api using XMLHttpRequest method
+It's a javascript program to fetch data through demo API using the XMLHttpRequest method.
+
+Access link - https://imsouvikmukherjee.github.io/fetch_api/
+
+
